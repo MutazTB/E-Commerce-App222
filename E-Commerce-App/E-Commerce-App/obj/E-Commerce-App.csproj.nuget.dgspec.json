@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mutaz\\ECommerceApp\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App.csproj": {}
+    "C:\\Users\\hmzai\\Desktop\\labs\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mutaz\\ECommerceApp\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App.csproj": {
+    "C:\\Users\\hmzai\\Desktop\\labs\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mutaz\\ECommerceApp\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App.csproj",
+        "projectUniqueName": "C:\\Users\\hmzai\\Desktop\\labs\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App.csproj",
         "projectName": "E-Commerce-App",
-        "projectPath": "C:\\Users\\Mutaz\\ECommerceApp\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App.csproj",
-        "packagesPath": "C:\\Users\\Mutaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mutaz\\ECommerceApp\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App\\obj\\",
+        "projectPath": "C:\\Users\\hmzai\\Desktop\\labs\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App.csproj",
+        "packagesPath": "C:\\Users\\hmzai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hmzai\\Desktop\\labs\\E-Commerce-App\\E-Commerce-App\\E-Commerce-App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mutaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hmzai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,15 +40,7 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "EntityFramework": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
-              "target": "Package",
-              "version": "[5.0.17, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.17, )"
             },
@@ -61,10 +53,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.17, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[5.0.2, )"
             }
           },
           "imports": [
@@ -85,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
